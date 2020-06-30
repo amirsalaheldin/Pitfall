@@ -1,0 +1,26 @@
+
+Scorpion.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spider_walk2
+  rotate: false
+  xy: 1, 1
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+spider_walk1
+  rotate: false
+  xy: 80, 3
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+spider
+  rotate: false
+  xy: 154, 9
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1

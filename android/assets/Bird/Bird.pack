@@ -1,0 +1,33 @@
+
+Bird.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wingMan3
+  rotate: false
+  xy: 1, 26
+  size: 216, 101
+  orig: 216, 101
+  offset: 0, 0
+  index: -1
+wingMan4
+  rotate: false
+  xy: 219, 26
+  size: 216, 101
+  orig: 216, 101
+  offset: 0, 0
+  index: -1
+wingMan2
+  rotate: false
+  xy: 437, 20
+  size: 206, 107
+  orig: 206, 107
+  offset: 0, 0
+  index: -1
+wingMan5
+  rotate: false
+  xy: 645, 4
+  size: 182, 123
+  orig: 182, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmad\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.7\8a021ba0bb6555c25dfc272697d379215aa05ed1\gdx-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8a021ba0bb6555c25dfc272697d379215aa05ed1">
+        <dex dex="C:\Users\ahmad\Dropbox\shared files\The Last One 2017.12.06\Pitfall 2 New_amir\android\build\intermediates\pre-dexed\debug\gdx-1.9.7_e986468abd23d3f52aafa4f6e818230635cea119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmad\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.7\aa953bdba7adc9c8f301274ddc797705460565ab\gdx-freetype-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="aa953bdba7adc9c8f301274ddc797705460565ab">
+        <dex dex="C:\Users\ahmad\Dropbox\shared files\The Last One 2017.12.06\Pitfall 2 New_amir\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.9.7_197672a7e1ce1ed03c4563fdbfc4b124cee0d1bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmad\Dropbox\shared files\The Last One 2017.12.06\Pitfall 2 New_amir\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="63fbb5c09843d83062d8be8b8e7ac18fdb9c1ec4">
+        <dex dex="C:\Users\ahmad\Dropbox\shared files\The Last One 2017.12.06\Pitfall 2 New_amir\android\build\intermediates\pre-dexed\debug\core-1.0_001f5229649b05e60e36ddcfc8a9803c7f40ff06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmad\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.7\884a964d5a09643269390bdc4d30fc7bf8b0b9eb\gdx-backend-android-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="884a964d5a09643269390bdc4d30fc7bf8b0b9eb">
+        <dex dex="C:\Users\ahmad\Dropbox\shared files\The Last One 2017.12.06\Pitfall 2 New_amir\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.7_7bf73dc16b5e775b12b8ed92d5f1013793cbc485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ahmad\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.7\ad5b0c9246497c2141580f26ad82f51ecc9879e5\gdx-box2d-1.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ad5b0c9246497c2141580f26ad82f51ecc9879e5">
+        <dex dex="C:\Users\ahmad\Dropbox\shared files\The Last One 2017.12.06\Pitfall 2 New_amir\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.7_3ce02acdb4acbf066c6faa361f7c4502aefbaea2.jar" />
+    </item>
+
+</items>

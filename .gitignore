@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/android/build/intermediates/assets/
+/android/build/intermediates/blame/
+/android/build/intermediates/classes/
+/android/build/intermediates/classes/debug/
+/android/build/intermediates/incremental/
+/android/build/intermediates/incremental-safeguard/
+/android/build/intermediates/jniLibs/
+/android/build/intermediates/manifests/
+/android/build/intermediates/pre-dexed/
+/android/build/intermediates/res/
+/android/build/intermediates/transforms/
+/android/build/outputs/
+/android/build/tmp/
+/core/build/
+/core/build/classes/main/
+/desktop/build/
+/desktop/build/classes/main/

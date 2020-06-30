@@ -1,0 +1,62 @@
+
+Player Animation.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Player Walk 2
+  rotate: false
+  xy: 84, 2
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+Player Walk1
+  rotate: false
+  xy: 2, 2
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+player_climb1
+  rotate: false
+  xy: 166, 2
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+player_climb2
+  rotate: false
+  xy: 248, 2
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+player_idle
+  rotate: false
+  xy: 330, 2
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+player_jump
+  rotate: false
+  xy: 412, 2
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+player_swim1
+  rotate: false
+  xy: 494, 2
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+player_swim2
+  rotate: false
+  xy: 576, 2
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+Eel.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snake
+  rotate: false
+  xy: 1, 1
+  size: 63, 23
+  orig: 63, 23
+  offset: 0, 0
+  index: -1
+snake_walk
+  rotate: false
+  xy: 66, 1
+  size: 63, 23
+  orig: 63, 23
+  offset: 0, 0
+  index: -1
